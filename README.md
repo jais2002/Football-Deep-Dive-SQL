@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Football Deep Dive SQL</h1>
+  <h1> Football Data Analysis SQL</h1>
 </div>
 
 <div align="center">
